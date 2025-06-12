@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/jpsim",
+      "destination": "https://shop.nxtsq.com/pages/%E6%97%A5%E6%9C%AC%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7web%E6%BA%96%E5%82%99%E4%B8%AD",
+      "permanent": true
+    }
+  ]
+}
